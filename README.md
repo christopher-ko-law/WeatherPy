@@ -21,9 +21,9 @@ The user is queried on their preferred temperature range (in celsius). Using the
 
 The Google Places API is then queried for a hotel nearby and markers are placed on a map. (see below)
 
-![Vacation Search](Vacation_search/WeatherPy_vacation_map.png)
+![Vacation Search](Vacation_Search/WeatherPy_vacation_map.png)
 
-Outputs - \Vacation_Search\WeatherPy_vacation.csvs
+Outputs - \Vacation_Search\WeatherPy_vacation.csv
 
 ## Vacation Itinerary (\Vacation_Itinerary)
 
