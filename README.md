@@ -6,7 +6,6 @@ This project demonstrates using how to use APIS to gather information. There are
 
 ## Resources
 
-- Data Source: Resources/city_data.csv, Resources/ride_data.csv
 - Software: Python 3.7.6, Visual Studio Code 1.56.0, gmaps-0.9.0-, 
 - APIs: OpenWeather API, Google Directions API, Google Places API
 
